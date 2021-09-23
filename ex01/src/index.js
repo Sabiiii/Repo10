@@ -1,5 +1,5 @@
 
-myPet = { 
+var myPet = { 
 
     species: "Huskey",
     name: "Njusko",
@@ -15,6 +15,7 @@ function myFunction(myObj) {
 
 console.log(myFunction(myPet));
 module.exports = {myPet, myFunction}
+
 
 
 
