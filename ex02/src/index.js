@@ -17,5 +17,5 @@ function myFunction(myObj) {
 }
 
 
-console.log(myFunction(myObj));
+console.log(myFunction(myClothes));
 module.exports = myFunction(myClothes);
